@@ -1,4 +1,4 @@
-# Our First Neural Network
+# MNIST Number Digit Classifier 
 
 This project implements a simple neural network using TensorFlow to classify handwritten digits from the MNIST dataset.
 
